@@ -192,6 +192,7 @@ FutureVulsクラウドサービスによる脆弱性スキャンが可能なOS�
 ・Windows Server 2012 (64bit)
 ・Windows Server 2012R2 (64bit)
 ・Windows Server 2016 (64bit)
+・Windows Server 2019 (64bit)
 ・Windows 8 (32bit/64bit)
 ・Windows 8.1 (32bit/64bit)
 ・Windows 10 (32bit/64bit)
