@@ -178,7 +178,6 @@ FutureVulsクラウドサービスによる脆弱性スキャンが可能なOS�
 ・Red Hat Enterprise Linux 6 (32bit/64bit)
 ・Red Hat Enterprise Linux 7 (64bit)
 ・Red Hat Enterprise Linux 8 (64bit)
-・CentOS 6 (32bit/64bit)
 ・CentOS 7 (64bit)
 ・CentOS 8 (64bit)
 ・Amazon Linux 最新AMI (64bit)
