@@ -167,26 +167,10 @@ FutureVulsクラウドサービスは、インターネットへの接続環境�
 ポート番号：443	スキャン結果のアップロード時に使用します。
 FutureVulsクラウドサービスのサイト閲覧時に使用します。
 
-3.2.	対応OS
+3.2.	対応環境
 FutureVulsクラウドサービスによる脆弱性スキャンが可能なOSは以下のとおりです。スキャナプログラム等は以下の環境において動作させるものとします。
 
-・Red Hat Enterprise Linux 6 ELS(32bit/64bit)
-・Red Hat Enterprise Linux 7 (64bit)
-・Red Hat Enterprise Linux 8 (64bit)
-・CentOS 7 (64bit)
-・CentOS 8 (64bit)
-・Amazon Linux 最新AMI (64bit)
-・Amazon Linux2 最新AMI (64bit)
-・Debian 9 (32bit/64bit)
-・Debian 10 (32bit/64bit)
-・Ubuntu 16.04 ESM (32bit/64bit)
-・Ubuntu 18.04 LTS (64bit)
-・Ubuntu 20.04 LTS (64bit)
-・Windows Server 2012 (64bit)
-・Windows Server 2012R2 (64bit)
-・Windows Server 2016 (64bit)
-・Windows Server 2019 (64bit)
-・Windows 10 (32bit/64bit)
+https://help.vuls.biz/manual/target/
 
 3.3.	対応ブラウザ
 FutureVulsクラウドサービスへのアクセス時に使用できるブラウザ環境は以下のとおりです。
