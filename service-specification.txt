@@ -10,7 +10,7 @@ Ver	作成日	改定箇所	改定内容
 1.0.3	2019/3/5	全体	オンラインサインアップ、クレジットカード決済に対応
 1.0.4	2019/10/30	全体	CSIRTプランを追加、対応OS更新
 以降の変更はコミット履歴を参照
-https://github.com/vuls-saas/legaldocs/commits/master/service-specification.txt
+https://github.com/futurevuls/legaldocs/commits/master/service-specification.txt
 
 
 ●	「FutureVuls」サービス仕様書（以下「本仕様書」といいます。）の知的財産その他一切の権利は、フューチャー株式会社（以下「フューチャー」といいます。）に帰属します。本仕様書の全部又は一部について、フューチャーからの許諾を得ずに、いかなる方法においても無断で複製・改変等をすることは禁じられています。
